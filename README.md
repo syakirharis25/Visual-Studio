@@ -48,6 +48,9 @@ Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 **_Visual Studio save management_** <br />
 **[ Ctrl ]** + **[ S ]** : save the program <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ S ]** : save all the program <br />
+
+**_Visual Studio text management_** <br />
+**[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
