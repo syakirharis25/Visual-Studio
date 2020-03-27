@@ -4,8 +4,9 @@ My works related to Visual Studio, an integrated development environment (IDE) f
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Visual Studio shortcuts.](#shortcuts)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -23,9 +24,31 @@ The most basic edition of Visual Studio, the Community edition, is available fre
 Microsoft official website : https://www.microsoft.com <br />
 Visual Studio official website : https://visualstudio.microsoft.com/ <br />
 Visual Studio Community official website : https://visualstudio.microsoft.com/vs/community/ <br />
+
+<a name="shortcuts"></a>
+## 3. Visual Studio shortcuts.
+
+**_Visual Studio application management_**
+**[ Fn ]** + **[ F5 ]** : run the application
+**[ Ctrl ]** + **[ F5 ]** : run the application without the debugger
+
+**_Visual Studio file management_**
+**[ Ctrl ]** + **[ N ]** : create new file
+**[ Ctrl ]** + **[ O ]** : open desired file
+
+**_Visual Studio folder management_**
+**[ Ctrl ]** + **[ Shift ]** + **[ Alt ]** + **[ O ]** : open desired folder
+
+**_Visual Studio project management_**
+**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : create new project
+**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : open desired project
+ 
+**_Visual Studio save management_**
+**[ Ctrl ]** + **[ S ]** : save the program
+**[ Ctrl ]** + **[ Shift ]** + **[ S ]** : save all the program
  
 <a name="github"></a>
-## 5. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Visual-Studio.git
@@ -35,7 +58,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 draft
 ```
