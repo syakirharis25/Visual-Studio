@@ -24,6 +24,7 @@ The most basic edition of Visual Studio, the Community edition, is available fre
 Microsoft official website : https://www.microsoft.com <br />
 Visual Studio official website : https://visualstudio.microsoft.com/ <br />
 Visual Studio Community official website : https://visualstudio.microsoft.com/vs/community/ <br />
+Visual Studio Blog : https://devblogs.microsoft.com/visualstudio/ <br />
 
 <a name="shortcuts"></a>
 ## 3. Visual Studio shortcuts.
