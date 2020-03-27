@@ -4,12 +4,13 @@ My works related to Visual Studio, an integrated development environment (IDE) f
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Visual Studio shortcuts.](#shortcuts)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="C_Sharp.png" height="110">
+<img src="visual studio.png" height="110">
 Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
 <br /><br />
 Visual Studio includes a code editor supporting IntelliSense (the code completion component) as well as code refactoring. The integrated debugger works both as a source-level debugger and a machine-level debugger. Other built-in tools include a code profiler, designer for building GUI applications, web designer, class designer, and database schema designer. It accepts plug-ins that enhance the functionality at almost every level—including adding support for source control systems (like Subversion and Git) and adding new toolsets like editors and visual designers for domain-specific languages or toolsets for other aspects of the software development lifecycle (like the Azure DevOps client: Team Explorer).
@@ -23,9 +24,33 @@ The most basic edition of Visual Studio, the Community edition, is available fre
 Microsoft official website : https://www.microsoft.com <br />
 Visual Studio official website : https://visualstudio.microsoft.com/ <br />
 Visual Studio Community official website : https://visualstudio.microsoft.com/vs/community/ <br />
+Visual Studio Blog : https://devblogs.microsoft.com/visualstudio/ <br />
+Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
+
+<a name="shortcuts"></a>
+## 3. Visual Studio shortcuts.
+
+**_Visual Studio application management_** <br />
+**[ Fn ]** + **[ F5 ]** : run the application <br />
+**[ Ctrl ]** + **[ F5 ]** : run the application without the debugger <br />
+
+**_Visual Studio file management_** <br />
+**[ Ctrl ]** + **[ N ]** : create new file <br />
+**[ Ctrl ]** + **[ O ]** : open desired file <br />
+
+**_Visual Studio folder management_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ Alt ]** + **[ O ]** : open desired folder <br />
+
+**_Visual Studio project management_**
+**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : create new project <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : open desired project <br />
+ 
+**_Visual Studio save management_** <br />
+**[ Ctrl ]** + **[ S ]** : save the program <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ S ]** : save all the program <br />
  
 <a name="github"></a>
-## 5. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Visual-Studio.git
@@ -35,7 +60,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 draft
 ```
