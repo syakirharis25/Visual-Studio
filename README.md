@@ -28,24 +28,24 @@ Visual Studio Community official website : https://visualstudio.microsoft.com/vs
 <a name="shortcuts"></a>
 ## 3. Visual Studio shortcuts.
 
-**_Visual Studio application management_**
-**[ Fn ]** + **[ F5 ]** : run the application
-**[ Ctrl ]** + **[ F5 ]** : run the application without the debugger
+**_Visual Studio application management_** <br />
+**[ Fn ]** + **[ F5 ]** : run the application <br />
+**[ Ctrl ]** + **[ F5 ]** : run the application without the debugger <br />
 
-**_Visual Studio file management_**
-**[ Ctrl ]** + **[ N ]** : create new file
-**[ Ctrl ]** + **[ O ]** : open desired file
+**_Visual Studio file management_** <br />
+**[ Ctrl ]** + **[ N ]** : create new file <br />
+**[ Ctrl ]** + **[ O ]** : open desired file <br />
 
-**_Visual Studio folder management_**
-**[ Ctrl ]** + **[ Shift ]** + **[ Alt ]** + **[ O ]** : open desired folder
+**_Visual Studio folder management_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ Alt ]** + **[ O ]** : open desired folder <br />
 
 **_Visual Studio project management_**
-**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : create new project
-**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : open desired project
+**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : create new project <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : open desired project <br />
  
-**_Visual Studio save management_**
-**[ Ctrl ]** + **[ S ]** : save the program
-**[ Ctrl ]** + **[ Shift ]** + **[ S ]** : save all the program
+**_Visual Studio save management_** <br />
+**[ Ctrl ]** + **[ S ]** : save the program <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ S ]** : save all the program <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
