@@ -1,0 +1,13 @@
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.exe
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.deps.json
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.json
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.runtimeconfig.dev.json
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\bin\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csprojAssemblyReference.cache
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.AssemblyInfo.cs
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.dll
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.pdb
+C:\Users\syaki\OneDrive\Desktop\Visual-Studio\FirstApplication\FirstApplication\obj\Debug\netcoreapp3.1\FirstApplication.genruntimeconfig.cache
