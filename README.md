@@ -27,6 +27,9 @@ Visual Studio Community official website : https://visualstudio.microsoft.com/vs
 Visual Studio Blog : https://devblogs.microsoft.com/visualstudio/ <br />
 Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 
+**_Visual Studio related articles_** <br />
+5 Great Visual Studio Keyboard Shortcuts by Visual Studio LIVE! : https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx <br />
+
 <a name="shortcuts"></a>
 ## 3. Visual Studio shortcuts.
 
@@ -51,6 +54,8 @@ Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 
 **_Visual Studio text management_** <br />
 **[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
+**[ Ctrl ]** + **[ K ]** + **[ C ]** : adding comment <br />
+**[ Ctrl ]** + **[ K ]** + **[ U ]** : remove comment <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
