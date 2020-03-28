@@ -56,6 +56,7 @@ Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 **[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
 **[ Ctrl ]** + **[ K ]** + **[ C ]** : adding comment <br />
 **[ Ctrl ]** + **[ K ]** + **[ U ]** : remove comment <br />
+**[ Shift ]** : add indentation
  
 <a name="github"></a>
 ## 4. GitHub notes.
