@@ -46,7 +46,6 @@ Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 
 **_Visual Studio project management_**
 **[ Ctrl ]** + **[ Shift ]** + **[ N ]** : create new project <br />
-**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : open desired project <br />
  
 **_Visual Studio save management_** <br />
 **[ Ctrl ]** + **[ S ]** : save the program <br />
