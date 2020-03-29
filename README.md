@@ -60,6 +60,12 @@ Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 
 **_Visual Studio item management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ A ]** : add new item <br />
+
+**_Visual Studio Solution Explorer management_** <br />
+**[ Fn ]** + **[ F2 ]** : rename the file <br />
+**[ Ctrl ]** + **[ X ]** : cut the file <br />
+**[ Ctrl ]** + **[ C ]** : copy the file <br />
+**[ Delete ]** : delete the file <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
