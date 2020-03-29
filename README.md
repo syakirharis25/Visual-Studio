@@ -60,6 +60,7 @@ Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 
 **_Visual Studio item management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ A ]** : add new item <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ A ]**, **[ N ]** : skip to edit the new name of the class <br />
 
 **_Visual Studio Solution Explorer management_** <br />
 **[ Fn ]** + **[ F2 ]** : rename the file <br />
