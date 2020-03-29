@@ -57,6 +57,9 @@ Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 **[ Ctrl ]** + **[ K ]** + **[ C ]** : adding comment <br />
 **[ Ctrl ]** + **[ K ]** + **[ U ]** : remove comment <br />
 **[ Shift ]** : add indentation
+
+**_Visual Studio item management_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ A ]** : add new item <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
