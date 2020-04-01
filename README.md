@@ -59,6 +59,7 @@ Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/quest
 
 **_Visual Studio text management_** <br />
 **[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
+**[ Ctrl ]** + **[ C ]**, **[ Ctrl ]** + **[ V ]** : duplicate the current line <br />
 **[ Ctrl ]** + **[ K ]** + **[ C ]** : adding comment <br />
 **[ Ctrl ]** + **[ K ]** + **[ U ]** : remove comment <br />
 **[ Shift ]** : add indentation
