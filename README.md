@@ -44,7 +44,7 @@ Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 **_Visual Studio folder management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ Alt ]** + **[ O ]** : open desired folder <br />
 
-**_Visual Studio project management_**
+**_Visual Studio project management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ N ]** : create new project <br />
  
 **_Visual Studio save management_** <br />
