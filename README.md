@@ -27,8 +27,14 @@ Visual Studio Community official website : https://visualstudio.microsoft.com/vs
 Visual Studio Blog : https://devblogs.microsoft.com/visualstudio/ <br />
 Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 
+**_Visual Studio questions and answers websites_** <br />
+ Stack Overflow questions and answers website : https://stackoverflow.com <br />
+
 **_Visual Studio related articles_** <br />
 5 Great Visual Studio Keyboard Shortcuts by Visual Studio LIVE! : https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx <br />
+
+**_Visual Studio questions and answers by Stack Overflow_** <br />
+Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/questions/2279000/visual-studio-short-cut-key-duplicate-line <br />
 
 <a name="shortcuts"></a>
 ## 3. Visual Studio shortcuts.
