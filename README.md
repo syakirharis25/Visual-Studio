@@ -27,6 +27,15 @@ Visual Studio Community official website : https://visualstudio.microsoft.com/vs
 Visual Studio Blog : https://devblogs.microsoft.com/visualstudio/ <br />
 Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 
+**_Visual Studio questions and answers websites_** <br />
+ Stack Overflow questions and answers website : https://stackoverflow.com <br />
+
+**_Visual Studio related articles_** <br />
+5 Great Visual Studio Keyboard Shortcuts by Visual Studio LIVE! : https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx <br />
+
+**_Visual Studio questions and answers by Stack Overflow_** <br />
+Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/questions/2279000/visual-studio-short-cut-key-duplicate-line <br />
+
 <a name="shortcuts"></a>
 ## 3. Visual Studio shortcuts.
 
@@ -41,13 +50,29 @@ Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 **_Visual Studio folder management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ Alt ]** + **[ O ]** : open desired folder <br />
 
-**_Visual Studio project management_**
+**_Visual Studio project management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ N ]** : create new project <br />
-**[ Ctrl ]** + **[ Shift ]** + **[ N ]** : open desired project <br />
  
 **_Visual Studio save management_** <br />
 **[ Ctrl ]** + **[ S ]** : save the program <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ S ]** : save all the program <br />
+
+**_Visual Studio text management_** <br />
+**[ Ctrl ]** + **[ D ]** : duplicate the current line <br />
+**[ Ctrl ]** + **[ C ]**, **[ Ctrl ]** + **[ V ]** : duplicate the current line <br />
+**[ Ctrl ]** + **[ K ]** + **[ C ]** : adding comment <br />
+**[ Ctrl ]** + **[ K ]** + **[ U ]** : remove comment <br />
+**[ Shift ]** : add indentation
+
+**_Visual Studio item management_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ A ]** : add new item <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ A ]**, **[ N ]** : skip to edit the new name of the class <br />
+
+**_Visual Studio Solution Explorer management_** <br />
+**[ Fn ]** + **[ F2 ]** : rename the file <br />
+**[ Ctrl ]** + **[ X ]** : cut the file <br />
+**[ Ctrl ]** + **[ C ]** : copy the file <br />
+**[ Delete ]** : delete the file <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
@@ -62,6 +87,17 @@ $ git status
 <a name="calculation"></a>
 ## 5. GitHub repository calculation.
 ```
-draft
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+JSON                             8              0              0            313
+Markdown                         1             11              0             56
+C#                               4             12             20             50
+XML                              2              0              0             21
+MSBuild script                   1              2              0              6
+-------------------------------------------------------------------------------
+SUM:                            16             25             20            446
+-------------------------------------------------------------------------------
+
 ```
 Refer to : https://github.com/syakirharis25/cloc
