@@ -29,6 +29,9 @@ Visual Studio Twitch : https://www.twitch.tv/visualstudio <br />
 
 **_Visual Studio questions and answers websites_** <br />
  Stack Overflow questions and answers website : https://stackoverflow.com <br />
+ 
+**_Visual Studio documentation by docs.microsoft.com_** <br />
+Walkthrough: Display light bulb suggestions : https://docs.microsoft.com/en-us/visualstudio/extensibility/walkthrough-displaying-light-bulb-suggestions?view=vs-2019 <br />
 
 **_Visual Studio related articles_** <br />
 5 Great Visual Studio Keyboard Shortcuts by Visual Studio LIVE! : https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx <br />
