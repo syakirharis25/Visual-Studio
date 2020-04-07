@@ -38,6 +38,7 @@ Introduction to WPF in Visual Studio : https://docs.microsoft.com/en-us/dotnet/f
 
 **_Visual Studio related articles_** <br />
 5 Great Visual Studio Keyboard Shortcuts by Visual Studio LIVE! : https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx <br />
+What is InitializeComponent() method and how to use it to learn how to create controls from code by DevComponents : https://www.devcomponents.com/kb2/?p=1327 <br />
 
 **_Visual Studio questions and answers by Stack Overflow_** <br />
 Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/questions/2279000/visual-studio-short-cut-key-duplicate-line <br />
