@@ -80,6 +80,9 @@ Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/quest
 **[ Ctrl ]** + **[ X ]** : cut the file <br />
 **[ Ctrl ]** + **[ C ]** : copy the file <br />
 **[ Delete ]** : delete the file <br />
+
+**_Visual Studio Solution View management_** <br />
+**[ Ctrl ]** + **[ Alt ]** + **[ L ]** : view the Solution Explorer <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
