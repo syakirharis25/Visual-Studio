@@ -87,6 +87,10 @@ Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/quest
 **_Visual Studio definition management_** <br />
 **[ Fn ]** + **[ F12 ]** : go to Definition <br />
 **[ Alt ]** + **[ Fn ]** + **[ F12 ]** : peek Definition <br />
+
+**_Visual Studio fixes management_** <br />
+**[ Alt ]** + **[ Enter ]** : show potential fixes <br />
+**[ Ctrl ]** + **[ . ]** : show potential fixes <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
