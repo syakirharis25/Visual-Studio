@@ -48,7 +48,7 @@ Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/quest
 
 **_Visual Studio application management_** <br />
 **[ Fn ]** + **[ F5 ]** : run the application <br />
-**[ Ctrl ]** + **[ F5 ]** : run the application without the debugger <br />
+**[ Ctrl ]** + **[ Fn ]** + **[ F5 ]** : run the application without the debugger <br />
 
 **_Visual Studio file management_** <br />
 **[ Ctrl ]** + **[ N ]** : create new file <br />
