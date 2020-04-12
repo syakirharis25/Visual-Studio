@@ -83,6 +83,10 @@ Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/quest
 
 **_Visual Studio Solution View management_** <br />
 **[ Ctrl ]** + **[ Alt ]** + **[ L ]** : view the Solution Explorer <br />
+
+**_Visual Studio definition management_** <br />
+**[ Fn ]** + **[ F12 ]** : go to Definition <br />
+**[ Alt ]** + **[ Fn ]** + **[ F12 ]** : peek Definition <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
