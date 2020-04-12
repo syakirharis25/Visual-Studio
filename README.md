@@ -92,6 +92,15 @@ Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/quest
 **[ Alt ]** + **[ Enter ]** : show potential fixes <br />
 **[ Ctrl ]** + **[ . ]** : show potential fixes <br />
  
+**_Visual Studio debug management_** <br />
+**[ F5 ]** : continue debugging <br />
+**[ Shift ]** +  **[ F5 ]** : stop debugging <br />
+**[ Ctrl ]** +  **[ Shift ]** +  **[ F5 ]** : restart debugging <br />
+**[ Fn ]** + **[ F10 ]** : step over <br />
+**[ Fn ]** + **[ F11 ]** : step into <br />
+**[ Fn ]** + **[ Shift ]** + **[ F11 ]** : step out <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ F9 ]** : delete all breakpoints <br />
+ 
 <a name="github"></a>
 ## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
