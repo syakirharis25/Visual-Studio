@@ -4,9 +4,10 @@ My works related to Visual Studio, an integrated development environment (IDE) f
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Visual Studio shortcuts.](#shortcuts)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+3. [Visual Studio developers.](#developers)
+4. [Visual Studio shortcuts.](#shortcuts)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -43,8 +44,12 @@ What is InitializeComponent() method and how to use it to learn how to create co
 **_Visual Studio questions and answers by Stack Overflow_** <br />
 Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/questions/2279000/visual-studio-short-cut-key-duplicate-line <br />
 
+<a name="developers"></a>
+## 3. Visual Studio developers.
+Bill Raymond : https://github.com/BillRaymond, https://twitter.com/billraymonde <br />
+
 <a name="shortcuts"></a>
-## 3. Visual Studio shortcuts.
+## 4. Visual Studio shortcuts.
 
 **_Visual Studio application management_** <br />
 **[ Fn ]** + **[ F5 ]** : run the application <br />
@@ -103,7 +108,7 @@ Visual Studio : short cut Key : Duplicate Line : https://stackoverflow.com/quest
 **[ Ctrl ]** + **[ Shift ]** + **[ F9 ]** : delete all breakpoints <br />
  
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Visual-Studio.git
@@ -113,7 +118,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
