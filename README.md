@@ -36,6 +36,7 @@ Walkthrough: Display light bulb suggestions : https://docs.microsoft.com/en-us/v
 PropertyGroup element (MSBuild) : https://docs.microsoft.com/en-us/visualstudio/msbuild/propertygroup-element-msbuild?view=vs-2019 <br />
 ItemGroup element (MSBuild) : https://docs.microsoft.com/en-us/visualstudio/msbuild/itemgroup-element-msbuild?view=vs-2019 <br />
 Introduction to WPF in Visual Studio : https://docs.microsoft.com/en-us/dotnet/framework/wpf/getting-started/introduction-to-wpf-in-vs<br />
+Sign in to Visual Studio : https://docs.microsoft.com/en-us/visualstudio/ide/signing-in-to-visual-studio?view=vs-2019 <br />
 
 **_Visual Studio related articles_** <br />
 5 Great Visual Studio Keyboard Shortcuts by Visual Studio LIVE! : https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx <br />
