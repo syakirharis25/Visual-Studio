@@ -107,6 +107,9 @@ Bill Raymond : https://github.com/BillRaymond, https://twitter.com/billraymonde 
 **[ Fn ]** + **[ Shift ]** + **[ F11 ]** : step out <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ F9 ]** : delete all breakpoints <br />
  
+**_Visual Studio build management_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ B ]** : build solution <br />
+ 
 <a name="github"></a>
 ## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
