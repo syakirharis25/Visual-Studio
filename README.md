@@ -37,6 +37,7 @@ PropertyGroup element (MSBuild) : https://docs.microsoft.com/en-us/visualstudio/
 ItemGroup element (MSBuild) : https://docs.microsoft.com/en-us/visualstudio/msbuild/itemgroup-element-msbuild?view=vs-2019 <br />
 Introduction to WPF in Visual Studio : https://docs.microsoft.com/en-us/dotnet/framework/wpf/getting-started/introduction-to-wpf-in-vs<br />
 Sign in to Visual Studio : https://docs.microsoft.com/en-us/visualstudio/ide/signing-in-to-visual-studio?view=vs-2019 <br />
+How to: Manage word wrap in the editor : https://docs.microsoft.com/en-gb/visualstudio/ide/reference/how-to-manage-word-wrap-in-the-editor?view=vs-2019 <br />
 
 **_Visual Studio related articles_** <br />
 5 Great Visual Studio Keyboard Shortcuts by Visual Studio LIVE! : https://vslive.com/Blogs/News-and-Tips/2015/04/5-VS-Keyboard-Shortcuts.aspx <br />
@@ -110,6 +111,9 @@ Bill Raymond : https://github.com/BillRaymond, https://twitter.com/billraymonde 
  
 **_Visual Studio build management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ B ]** : build solution <br />
+ 
+ **_Visual Studio text management_** <br />
+ **[ Ctrl ]** + **[ E ]**,  **[ Ctrl ]** + **[ W ]** : word wrap <br />
  
 <a name="github"></a>
 ## 5. GitHub notes.
